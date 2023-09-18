@@ -23,6 +23,10 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+## Deployment
 
+Webpage Link - https://erfaizanmemon.github.io/JavaScript-Quiz/
+
+Github Link - https://github.com/ErFaizanMemon/JavaScript-Quiz
 
 
